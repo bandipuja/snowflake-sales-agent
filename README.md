@@ -3,7 +3,7 @@
 This project is a **Snowflake Cortex Agent** that acts as a small
 *Retail Sales Analytics Assistant*.
 
-You deploy everything using the **Snowflake web UI (Snowsight)** — no CLI is required.
+Deployed everything using the **Snowflake web UI (Snowsight)** — no CLI is required.
 All SQL and project files are kept here so you can push them to GitHub.
 
 ## What this project does
