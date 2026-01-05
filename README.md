@@ -99,3 +99,9 @@ You can now:
 2. Unzip it locally.
 3. Run the SQL in Snowsight to create the agent.
 4. Initialize a Git repo and push it to GitHub.
+
+
+
+Author
+This project was developed by Puja Bandi.
+You can reach me via LinkedIn(www.linkedin.com/in/puja-bandi)
